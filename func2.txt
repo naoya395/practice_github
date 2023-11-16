@@ -1,4 +1,12 @@
-func2
-print("C++")
+def func2(){
+	print("C++")
 
-print("is best programming language")
+	print("is best programming language")
+
+	_calc()
+}
+
+def _calc(){
+	print("1 + 1 = ",1+1)
+	}
+
