@@ -1,0 +1,5 @@
+function1:
+Walk through the door
+Eat an orange
+Pick money on a table
+run as fast as possible
