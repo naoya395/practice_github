@@ -1,5 +1,5 @@
 function1:
 Walk through the door
 Eat an orange
-Pick money on a table
+Pick money from the drawer
 run as fast as possible
